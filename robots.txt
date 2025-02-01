@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://papacaishen.github.io/sitemap.xml
